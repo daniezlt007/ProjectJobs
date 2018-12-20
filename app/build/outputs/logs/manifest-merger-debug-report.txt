@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d084be434291243987aeabb9fd9c8e78/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/8a7185711c02c56cbfd9f7d67e0d460a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d084be434291243987aeabb9fd9c8e78/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d084be434291243987aeabb9fd9c8e78/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:14:9-40
+activity#projectjobs.app.com.br.views.MainActivity
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:15:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:19:27-74
+activity#projectjobs.app.com.br.views.CandidatesActivity
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:22:19-59
+activity#projectjobs.app.com.br.views.CandidatesDetailActivity
+ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:23:9-77
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml:23:19-65
+uses-sdk
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d084be434291243987aeabb9fd9c8e78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d084be434291243987aeabb9fd9c8e78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/8a7185711c02c56cbfd9f7d67e0d460a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/8a7185711c02c56cbfd9f7d67e0d460a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:20:5-44
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ProjectJobs/app/src/main/AndroidManifest.xml
